@@ -1,0 +1,13 @@
+body{
+    background-color: blanchedalmond ;font-family:fantasy ; text-align: center;
+}
+h1{
+    font-size: 30pt;
+}
+.fundamentochute{
+    width: 100px;
+    border-style: groove;
+    border-color: rgb(0, 0, 8);
+    border-width: 10px;
+    
+}
